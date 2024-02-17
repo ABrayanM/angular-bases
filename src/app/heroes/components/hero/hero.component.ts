@@ -19,7 +19,7 @@ export class HeroComponent {
   }
 
   changeName():void {
-    this.name = 'batman';
+    this.name = 'Spiderman';
   }
 
   changeAge():void {
